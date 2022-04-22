@@ -1,3 +1,7 @@
-**/www/node_modules
-**/www/dist
+**/www-vanilla/node_modules
+**/www-vanilla/dist
+**/www-vue/node_modules
+**/www-vue/dist
+**/www-react/node_modules
+**/www-react/dist
 **/rust-program/target/

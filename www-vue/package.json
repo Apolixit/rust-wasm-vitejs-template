@@ -1,0 +1,18 @@
+{
+  "name": "vite-vue",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "wasm": "wasm-pack build ../rust-program --target web"
+  },
+  "dependencies": {
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "vite": "^2.9.5",
+    "vite-plugin-wasm-pack": "^0.1.9"
+  }
+}
