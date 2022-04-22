@@ -1,0 +1,3 @@
+**/www/node_modules
+**/www/dist
+**/rust-program/target/
