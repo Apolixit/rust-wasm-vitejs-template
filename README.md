@@ -1,4 +1,4 @@
-#titre Template for Rust WASM with Vite JS
+# Template for Rust WASM with Vite JS
 
 Template for :
 * Vanilla JS
